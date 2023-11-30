@@ -1,0 +1,50 @@
+.details-container {
+  font-size: 1.4rem;
+  color: black;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  background-color: orange;
+  text-transform: uppercase;
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 0px 30px;
+  background-color: orange;
+  gap: 27px;
+}
+.details div {
+  font-size: 1.5rem;
+  color: rgb(246, 239, 239);
+  background-color: black;
+}
+.details img {
+  height: 300px;
+  width: 600px;
+  border: solid red;
+}
+.my_data {
+  width: 300px;
+  margin: 200px;
+}
+
+.my_data h2 {
+  margin-right: 20px;
+  font-size: 50px;
+  color: rgb(21, 44, 213);
+}
+.my_data h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(234, 243, 234);
+  margin-top: 41pxx;
+}
+
+.description {
+  color: rgb(255, 253, 253);
+  padding: 40px;
+}

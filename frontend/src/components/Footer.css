@@ -1,0 +1,12 @@
+.my-footer-container {
+  border: 2px solid red;
+  padding: 12px;
+  width: 100%;
+  background-color: crimson;
+}
+.footer {
+  color: white;
+  background-repeat: no-repeat;
+  justify-content: center;
+  text-align: center;
+}
